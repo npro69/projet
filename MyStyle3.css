@@ -1,0 +1,15 @@
+h1{
+    font-size: 35px;
+    font-weight: lighter;
+}
+#vb:hover{
+    background-color: darkred;
+    color: white;
+    font-size: 30px;
+}
+#vb{
+    font-size: 30px;
+}
+body{
+    background-color: rgb(255, 197, 197);
+}
